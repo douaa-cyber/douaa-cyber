@@ -38,21 +38,7 @@
 
 </p>
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douaa-cyber&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=douaa-cyber&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douaa-cyber&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douaa-cyber&theme=github_dark&utcOffset=1" />
-
-</p>
 
 ---
 
