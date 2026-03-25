@@ -69,5 +69,8 @@
 <a href="https://github.com/douaa-cyber">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+ <a href="mailto:douag892@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
 </p>
