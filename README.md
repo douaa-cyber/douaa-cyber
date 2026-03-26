@@ -7,15 +7,11 @@
 ---
 
 # 🛠️ Languages and Tools
-
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,prisma,postman" />
-
-
-
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
 ---
 
 # 🚀 Github Stats
